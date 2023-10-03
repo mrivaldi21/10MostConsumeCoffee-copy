@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">10MostConsumeCoffee</string>
+    <string name="coffee_name">Coffee Name</string>
+    <string name="descriptive_kopi">Descriptive Kopi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about_me">About Me</string>
+    <string-array name="data_coffe">
+        <item>Black coffee</item>
+        <item>Latte</item>
+        <item>Espresso</item>
+        <item>Capucino</item>
+        <item>Macchiato</item>
+        <item>Moca</item>
+        <item>Affogato</item>
+        <item>Cold Brew</item>
+        <item>Frappucinno</item>
+        <item>Iced Coffe</item>
+    </string-array>
+    <string-array name="coffe_description">
+        <item>This is coffee that is brewed without adding any milk, sugar, or other ingredients. It is also called cafe noir. Black coffee can have different tastes depending on the type of coffee beans, the roasting process, and the brewing method
+        \n\nBlack coffee is often preferred by coffee connoisseurs who want to enjoy the pure flavor and aroma of the coffee. It is also lower in calories and higher in antioxidants than coffee with milk or sugar. Black coffee can be served hot or cold, and with or without cream.
+        \n\nBlack coffee has many health benefits, such as improving mood, memory, and metabolism. It can also reduce the risk of diabetes, heart disease, and some cancers. However, drinking too much black coffee can cause side effects such as insomnia, anxiety, and dehydration. Therefore, it is recommended to limit the intake of black coffee to no more than four cups per day.
+        \n\nBlack coffee can be made with different methods, such as drip, French press, espresso, or cold brew. Each method has its own advantages and disadvantages, and affects the taste, strength, and acidity of the coffee. For example, drip coffee is easy and convenient, but may lose some flavor and aroma. French press coffee is rich and full-bodied, but may have some sediment. Espresso coffee is intense and concentrated, but may be bitter or sour. Cold brew coffee is smooth and refreshing, but takes longer to prepare.
+        </item>
+
+        <item>This is a popular coffee drink that consists of a shot of espresso and steamed milk with a thin layer of foam on top1. Latte means “milk” in Italian, and it can be flavored with various syrups or spices.
+        \n\nLatte is derived from the Italian term caffè e latte, which means “coffee and milk”. It was first used in English in 1867 by William Dean Howells in his essay “Italian Journeys” 1. Lattes are usually served in a large glass or a mug, and can be decorated with latte art, which is the skill of creating patterns on the foam using a milk pitcher or a toothpick
+        \n\nLatte is one of the most popular espresso drinks around the world. It comes in many variations, such as mocha (chocolate-flavored), chai (spiced tea), matcha (green tea), or pumpkin spice (seasonal). Lattes can also be made with different types of milk, such as soy, almond, or oat. Lattes are often sweetened with sugar, honey, or artificial sweeteners
+        \n\nLatte is a simple and delicious way to enjoy coffee. It can be made at home with an espresso machine and a milk frother, or with a stovetop moka pot and a microwave. The ratio of espresso to milk is usually 1:2, but it can be adjusted according to personal preference. The foam should be thin and smooth, not thick and bubbly. A good latte should have a balanced flavor of coffee and milk, with a creamy texture and a rich aroma
+        </item>
+
+        <item>This is a similar drink to a latte, but with more foam and less milk. Cappuccino is named after the Capuchin monks, who wore brown robes that resembled the color of the drink1. Cappuccino can also be sprinkled with cinnamon, cocoa, or nutmeg for extra flavor.
+        \n\nCappuccino is a classic Italian coffee drink that is usually consumed in the morning or as a midday break. It is made by pouring a shot of espresso into a cup, then adding steamed milk and milk foam in a 1:1:1 ratio. The foam should be thick and velvety, creating a contrast with the strong coffee. A good cappuccino should have a rich and balanced taste, with a hint of sweetness from the milk
+        \n\nCappuccino is one of the most popular espresso-based drinks in the world. It has many variations, such as iced cappuccino, cappuccino freddo, cappuccino chiaro, or cappuccino scuro. Some people like to add flavored syrups, whipped cream, or chocolate shavings to their cappuccinos, while others prefer to enjoy them plain. Cappuccinos can also be made with different types of milk, such as soy, almond, or coconut
+        \n\nCappuccino is a simple and delicious way to enjoy coffee at home. It can be made with an espresso machine and a milk frother, or with a stovetop moka pot and a microwave. The key to making a perfect cappuccino is to use fresh and finely ground coffee beans, cold and fresh milk, and the right temperature and pressure for steaming and frothing. A cappuccino should have a smooth and creamy texture, a rich and aromatic flavor, and a beautiful presentation
+        </item>
+
+        <item>This is a strong and concentrated coffee that is made by forcing hot water through finely ground coffee beans under high pressure1. Espresso is the base for many other coffee drinks, such as latte, cappuccino, macchiato, and mocha1. Espresso can be served as a single or double shot, or with a splash of water as an americano
+        \n\nEspresso has a rich and complex flavor that can vary depending on the type, roast, and grind of the coffee beans, as well as the temperature and pressure of the water. Espresso is usually brewed with dark roasted beans that have a higher oil content and a lower acidity than lighter roasts. The grind size should be fine enough to create resistance to the water flow, but not too fine to cause over-extraction or clogging. The ideal temperature for brewing espresso is between 90°C and 96°C, and the ideal pressure is around 9 bars
+        \n\nEspresso is often enjoyed with a small amount of sugar or sweetener to balance the bitterness of the coffee. Some people also like to add a dash of milk or cream to create a smoother texture and a lighter color. Espresso can also be mixed with hot or cold milk to make various drinks, such as latte (espresso with steamed milk and a thin layer of foam), cappuccino (espresso with equal parts of steamed milk and foam), macchiato (espresso with a dollop of foam), and mocha (espresso with chocolate syrup and steamed milk)
+        \n\nEspresso is a popular drink that can be enjoyed at any time of the day. It can provide a boost of energy, improve mental alertness, and enhance mood. Espresso also has some health benefits, such as lowering the risk of type 2 diabetes, Parkinson’s disease, and Alzheimer’s disease. However, drinking too much espresso can cause side effects such as insomnia, anxiety, and heart palpitations. Therefore, it is recommended to limit the intake of espresso to no more than four shots per day
+        </item>
+
+        <item>This is a coffee drink that consists of a shot of espresso with a small amount of foamed milk on top1. Macchiato means “marked” or “stained” in Italian, referring to the contrast between the dark coffee and the white foam1. Macchiato can also be flavored with caramel or vanilla syrup as a caramel macchiato or a vanilla macchiato
+        \n\nMacchiato is a traditional Italian coffee drink that is usually consumed in the afternoon or as an after-dinner treat. It is made by pouring a shot of espresso into a small cup, then adding a spoonful of foamed milk on top. The foam should be dense and creamy, creating a distinct layer on the coffee. A good macchiato should have a strong and aromatic flavor, with a slight sweetness from the milk
+        \n\nMacchiato is one of the most versatile espresso-based drinks in the world. It can be customized with different types of syrups, such as caramel, vanilla, hazelnut, or mocha. These syrups can be added to the espresso before or after the milk, depending on the preference of the customer. Some popular variations of macchiato are caramel macchiato (espresso with caramel syrup and foamed milk), vanilla macchiato (espresso with vanilla syrup and foamed milk), and mocha macchiato (espresso with chocolate syrup and foamed milk)
+        \n\nMacchiato is a simple and delicious way to enjoy coffee at home. It can be made with an espresso machine and a milk frother, or with a stovetop moka pot and a whisk. The key to making a perfect macchiato is to use fresh and finely ground coffee beans, hot and fresh milk, and the right technique for frothing. A macchiato should have a smooth and silky texture, a rich and intense flavor, and a beautiful presentation
+        </item>
+
+        <item>This is a coffee drink that combines espresso, steamed milk, and chocolate syrup or powder1. Mocha is named after the port city of Mocha in Yemen, where coffee beans were traded in the past1. Mocha can also be topped with whipped cream and chocolate shavings for a decadent treat.
+        \n\nMocha is a delicious and indulgent way to enjoy coffee and chocolate together. It is similar to a latte, but with more chocolate flavor and sweetness. Mocha can be served hot or cold, and with or without foam. A good mocha should have a smooth and creamy texture, a rich and balanced taste, and a tempting aroma
+        \n\nMocha is one of the most popular coffee drinks in the world. It has many variations, such as white mocha (with white chocolate), caramel mocha (with caramel syrup), or peppermint mocha (with peppermint flavor). Mochas can also be made with different types of milk, such as soy, almond, or coconut. Mochas are often enjoyed as a dessert or a treat, especially during the winter season
+        \n\nMocha is a simple and easy way to make coffee at home. It can be made with an espresso machine and a milk frother, or with instant coffee and a microwave. The basic recipe for mocha is to mix one part espresso or strong coffee with one part steamed milk and one part chocolate syrup or powder. Then, top it with whipped cream and chocolate shavings if desired. A mocha can be customized with different syrups, spices, or toppings according to personal preference
+        </item>
+
+        <item>This is a coffee-based dessert that consists of a scoop of vanilla ice cream or gelato with a shot of hot espresso poured over it. Affogato means “drowned” in Italian, referring to the melting of the ice cream by the coffee. Affogato can also be topped with whipped cream, nuts, or chocolate sauce for extra indulgence.
+        \n\nAffogato is a simple and elegant way to enjoy coffee and ice cream together. It is usually served in a small glass or a bowl, with a spoon and a straw. The hot espresso contrasts with the cold ice cream, creating a sensation of hot and cold in the mouth. A good affogato should have a smooth and creamy texture, a sweet and bitter taste, and a fragrant aroma
+        \n\nAffogato is one of the easiest coffee desserts to make at home. It can be made with an espresso machine or a stovetop moka pot, or even with instant coffee and hot water. The only other ingredients needed are vanilla ice cream or gelato, and any toppings of choice. The basic recipe for affogato is to place one scoop of ice cream in a glass or a bowl, then pour one shot of espresso over it. Then, add whipped cream, nuts, chocolate sauce, or any other toppings as desired
+        \n\nAffogato is a versatile and customizable dessert that can be adapted to different preferences and occasions. It can be made with different flavors of ice cream or gelato, such as chocolate, caramel, or pistachio. It can also be flavored with different syrups or liqueurs, such as hazelnut, amaretto, or Kahlúa. Affogato can be enjoyed as a refreshing treat on a hot day, or as a cozy indulgence on a cold night
+        </item>
+
+        <item>This is a method of making coffee that involves steeping coarsely ground coffee beans in cold water for 12 to 24 hours. Cold brew produces a smooth and less acidic coffee that can be served cold or hot. Cold brew can also be mixed with milk, cream, sugar, or flavored syrups to create different drinks, such as cold brew latte, cold brew mocha, or cold brew lemonade
+        \n\nCold brew is a convenient and economical way to make coffee at home. It does not require any special equipment or electricity, only a large container, a strainer, and some paper filters. Cold brew can be stored in the refrigerator for up to two weeks, and can be used as a base for various recipes, such as smoothies, cocktails, or desserts
+        \n\nCold brew is a healthy and refreshing alternative to regular coffee. It has less caffeine and more antioxidants than hot brewed coffee, which can benefit the heart, brain, and skin. Cold brew also has a lower pH level than hot brewed coffee, which can prevent acid reflux and tooth decay. Cold brew can be enjoyed by people who are sensitive to caffeine or acidity
+        \n\nCold brew is a delicious and versatile drink that can be customized to suit different tastes and occasions. It can be served black or with milk, cream, sugar, or flavored syrups. It can also be blended with ice or frozen fruits for a frosty treat. Some popular flavors of cold brew are vanilla, caramel, hazelnut, or coconut. Cold brew can be enjoyed as a morning energizer, an afternoon refresher, or an evening relaxe
+        </item>
+
+        <item>This is a trademarked name for a blended coffee drink that is made by Starbucks. Frappuccino combines ice, coffee, milk, and various flavors and toppings to create a thick and creamy beverage. Frappuccino can be customized with different types of coffee, such as espresso frappuccino, caramel frappuccino, or mocha frappuccino.
+        \n\nFrappuccino is a popular and refreshing way to enjoy coffee and ice cream together. It is similar to a milkshake, but with more coffee flavor and less sweetness. Frappuccino can be served in different sizes, from tall to venti, and with or without whipped cream. A good frappuccino should have a smooth and frosty texture, a rich and balanced taste, and a tempting aroma
+        \n\nFrappuccino has many variations, such as light frappuccino, creme frappuccino, or juice blend frappuccino. Light frappuccino is made with skim milk and sugar-free syrup, and has fewer calories and fat than regular frappuccino.
+        \n\nFrappuccino is a simple and easy way to make coffee at home. It can be made with an espresso machine and a blender, or with instant coffee and a food processor. The basic recipe for frappuccino is to blend one cup of ice, one cup of milk, two tablespoons of sugar, and two tablespoons of instant coffee or espresso. Then, add any flavorings or toppings as desired
+        </item>
+
+        <item>This is a simple and refreshing way to enjoy coffee on a hot day. Iced coffee is made by pouring hot or cold brewed coffee over ice and adding milk, cream, sugar, or other sweeteners as desired. Iced coffee can also be flavored with various syrups or spices, such as vanilla iced coffee, hazelnut iced coffee, or cinnamon iced coffee .
+        \n\nIced coffee is a popular and convenient way to make coffee at home. It does not require any special equipment or skills, only a large pitcher, a strainer, and some paper filters. Iced coffee can be stored in the refrigerator for up to two days, and can be served as a base for various drinks, such as smoothies, cocktails, or desserts
+        \n\nIced coffee has many benefits, such as cooling you down, hydrating you, and boosting your energy. It also has less acidity and bitterness than hot brewed coffee, which can improve the taste and prevent stomach upset. Iced coffee can be enjoyed by people who are sensitive to heat or caffeine
+        \n\nIced coffee is a delicious and customizable drink that can be adapted to different preferences and occasions. It can be made with different types of coffee, such as drip, French press, espresso, or cold brew. It can also be mixed with different types of milk, such as dairy, soy, almond, or oat. Iced coffee can be sweetened with sugar, honey, or artificial sweeteners. It can also be flavored with different syrups or spices, such as vanilla, caramel, hazelnut, cinnamon, or nutmeg
+        </item>
+    </string-array>
+    <string-array name="coffe_photo">
+        <item>https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/c/c6/Latte_art_3.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/a/a5/Tazzina_di_caff%C3%A8_a_Ventimiglia.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/3/3a/Cappuccino.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/2/2b/Latte_macchiato.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/7/7e/Mocha_coffee.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/1/17/Vinoteca%2C_Smithfield%2C_London_%284485849609%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/f/f4/Preparation_of_cold_brew_coffee_06.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Strawberry_Delight_Frappuccino.JPG/640px-Strawberry_Delight_Frappuccino.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/d/d8/Blue_Bottle%2C_Kyoto_Style_Ice_Coffee_%285909775445%29.jpg</item>
+    </string-array>
+
+</resources>
