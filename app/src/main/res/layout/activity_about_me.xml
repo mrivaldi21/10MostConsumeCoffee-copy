@@ -6,12 +6,12 @@
     android:layout_height="match_parent"
     tools:context=".AboutMe">
 
-
+<!-- Add your custom image and upload to drawble folder and change the source to your file -->
+    <!--         android:src="@drawable/userimage"  -->
     <de.hdodenhof.circleimageview.CircleImageView
         android:id="@+id/img_user_photo"
         android:layout_width="241dp"
         android:layout_height="312dp"
-        android:src="@drawable/userimage"
         app:civ_border_color="#FFFFFF"
         app:civ_border_width="2dp"
         app:layout_constraintBottom_toTopOf="@+id/guideline"
